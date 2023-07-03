@@ -20,7 +20,7 @@ public class Main {
                 minCount = item.getValue().size();
 
         }
-        // Формируем стек, начиная с минимального количества номеров
+        // Формируем стек, начиная с минимального количества номеров.
         Stack<String> st = new Stack<>();
         int num = minCount;
         while (num <= maxCount) {
