@@ -1,0 +1,16 @@
+# compiled files
+*.exe
+*.class
+*.py[co]
+*.py?
+
+# virtual enviroments files
+/env/
+*/env/
+1_coding_introduction/
+2_c-sharp/
+3_python/
+4_web_tech/
+5_Java/
+pyrightconfig.json
+README.md
