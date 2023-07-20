@@ -12,7 +12,7 @@ public class Main {
   public static ArrayList<Character> team2 = new ArrayList<>();
   public static ArrayList<Character> allTeam = new ArrayList<>();
 
-  public static void main(String[] args) {
+  public static void main(String[] args)  {
     fillGreenList(team1, 1);
     fillBlueList(team2, 10);
     allTeam.addAll(team1);
